@@ -9,3 +9,4 @@ c=b+a;
 let int =10;
 console.log(int);
 
+//wrong info
